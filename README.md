@@ -1,9 +1,9 @@
-<p style="font-size: 30px; text-align: center; font-family: Georgia, sans-serif"> 👑 Muhammad Raahim Rizwan</p>
+## 👋 Hi there, I'm Muhammad Raahim Rizwan
 
-<p style="font-size: 15px; text-align: center; font-family: Georgia, sans-serif"> Turning Data into Decisions | Building AI that Actually Matters</p>
+#### Turning Data into Decisions | Building AI that Actually Matters
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=22&duration=3000&pause=800&color=004a6c&center=true&vCenter=true&width=700&lines=Data+Science+Undergrad+@+NED+University;Aspiring+AI+Engineer;Computer+Vision+%7C+Generative+AI+%7C+ML;Learning.+Building.+Impacting." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=22&duration=3000&pause=800&color=4cb386&center=true&vCenter=true&width=700&lines=Data+Science+Undergrad+@+NED+University;Aspiring+AI+Engineer;Computer+Vision+%7C+Generative+AI+%7C+ML;Learning.+Building.+Impacting." />
 </p>
 
 <p align="center">
