@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0000FF,100:0000FF&height=200&section=header&text=Muhammad%20Raahim%20Rizwan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14c8d9,50:0000FF,100:14c8d9&height=200&section=header&text=Muhammad%20Raahim%20Rizwan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://www.linkedin.com/in/muhammad-raahim-rizwan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:muhammadraahimrizwan@gmail.com">
+<a href="mailto:rizwan4601146@cloud.neduet.edu.pk">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://raahim-portfolio-ecru.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=123MRaahimRizwan&style=flat-square&color=4cb386&label=Profile+Views" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=2800&pause=700&color=ffffff&center=true&vCenter=true&width=600&lines=Data+Science+Undergrad+%40+NED+University;Computer+Vision+%7C+Generative+AI+%7C+MLOps;Building+AI+that+solves+real+problems;Always+learning.+Always+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=2800&pause=700&color=ffffff&center=true&vCenter=true&width=600&lines=Data+Science+Undergrad+%40+NED+University;MLOps+%7C+RAG+Architecture+%7C+Full+Stack;Building+AI+that+solves+real+problems;Always+learning.+Always+shipping." />
 
 </div>
 
@@ -20,9 +23,9 @@
 
 ## About
 
-I'm a **Data Science undergraduate at NED University of Engineering & Technology**, focused on building AI systems that are practical, accessible, and impactful — not just academically interesting.
+I'm a **Data Science student at NED University of Engineering & Technology**, focused on building end-to-end AI systems and full-stack applications that solve real-world problems.
 
-My work spans **Computer Vision**, **NLP**, and **Generative AI**, with a particular interest in deploying lightweight models to real-world, resource-constrained environments. Beyond code, I organize community events and lead initiatives that bring students closer to industry.
+My experience spans engineering automated **MLOps pipelines**, architecting **Retrieval-Augmented Generation (RAG)** systems, and developing responsive cross-platform web/mobile software. Beyond writing code, I lead community initiatives and hackathons to bridge the gap between students and the tech industry.
 
 > *"Technology ages fast. Thinking, learning, and adapting never do."*
 
@@ -33,73 +36,79 @@ My work spans **Computer Vision**, **NLP**, and **Generative AI**, with a partic
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI / ML**
+**AI / ML & MLOps**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-Red?style=flat-square&logo=qdrant&logoColor=white)
 
-**Web & APIs**
+**Frameworks & Web Development**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Data & Infrastructure**
+**Databases & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Featured Projects
+## Featured Experience & Projects
 
-### 🎓 AI University Admissions Chatbot
-**Context-aware RAG chatbot to help students navigate admissions decisions**
+### 🌤️ End-to-End AQI Forecasting Pipeline | *10Pearls Pakistan*
+**Production-ready MLOps system for air quality forecasting using Open Weather API.**
+* Evaluated XGBoost, Random Forest, and Linear Regression models to reach **94% prediction accuracy** and decrease RMSE by 6.4%.
+* Engineered automated, anomaly-resistant data preprocessing and feature transformation pipelines.
+* Implemented a custom **MongoDB-based model registry** to track machine learning experiments and handle versioning.
 
-Parses multiple academic PDFs and delivers accurate, grounded responses using Retrieval-Augmented Generation. Designed to make quality information accessible to students regardless of their background.
-
-`Sentence Transformers` `MiniLM` `Gemini Pro` `Flask` `RAG`
-
----
-
-### 🧾 Resume Parser & JD Matcher
-**LLM-powered tool that bridges the gap between candidates and job descriptions**
-
-Analyzes resumes against job descriptions and generates actionable, structured feedback. Achieved 100% relevance matching in internal testing. Built as a clean, production-grade web application.
-
-`NLP` `LLMs` `Gemini Pro` `Flask`
+`Python` `Scikit-Learn` `MLOps` `MongoDB` `API Integration`
 
 ---
 
-### 👁️ Face Recognition Attendance System *(In Progress)*
-**Eliminating proxy attendance using real-time Computer Vision**
+### 🎓 Institutional Knowledge RAG Chatbot | *NED University*
+**Context-aware semantic search system for automated university document processing.**
+* Handled structured semantic parsing of complex academic PDFs using PyPDF2.
+* Designed a high-performance semantic search pipeline utilizing **all-MiniLM-L6-v2 sentence embeddings** and a **Qdrant vector database**.
+* Shipped a full-stack production build running on a lightweight Flask backend and a highly interactive React frontend.
 
-Classroom-ready face recognition system built to demonstrate practical CV applications in education, and to inspire further student research in the space.
-
-`OpenCV` `Deep Learning` `Python`
+`RAG Architecture` `Qdrant` `Flask` `React` `NLP`
 
 ---
 
-## Current Research
+### 💍 Professional Matrimonial Platform | *Startup Initiative*
+**A secure, production-grade web and mobile platform tailored for specialized career demographics.**
+* Designing and developing cross-platform interfaces ensuring highly responsive UI experiences.
+* Implementing modern, clean full-stack architectural practices for security and scale.
 
-**MobileNet & EfficientNet for Edge Devices**
+`Next.js` `React Native` `Full-Stack Development`
 
-Investigating lightweight CNN architectures for real-time inference on resource-constrained hardware — the intersection of model efficiency and practical deployment.
+---
+
+### 🕹️ Fight With FizUp | *Game Development*
+**A 2D fighting game managed with clean game scene mechanics and high-performance execution.**
+* Architecting custom player sprite states and modular scene structures utilizing the Phaser game engine.
+* Managing fluid frame animation loops to guarantee highly responsive input controls.
+
+`Phaser Engine` `JavaScript` `Game Design`
+
+---
+
+## Certifications
+
+* **Google AI Professional Certification**
+* **Data Structures and Algorithms Certification** — *Simplilearn*
 
 ---
 
@@ -114,30 +123,17 @@ Investigating lightweight CNN architectures for real-time inference on resource-
 
 ---
 
-## Beyond Code
+## Leadership & Community
 
-- 🎤 **Organizer** — Data Quest Hackathon
-- 🧠 **Core Member** — Data Insight Club, CSIT NED
-- 🛠️ **Organizer** — Tech Fest '25 (workshops with industry experts)
-- 🤝 Strong advocate for community-driven, peer-to-peer learning
-
----
-
-## Areas of Focus
-
-```
-Machine Learning        ████████████████████  
-Computer Vision         ████████████████░░░░  
-Natural Language Processing  ███████████████░░░░░  
-Generative AI           ██████████████░░░░░░  
-Data Analysis           █████████████████░░░  
-```
+* 🚀 **Lead**: Data Insight Club, CSIT Department, NED University (Dec 2023 - Present).
+* 🏆 **Organizer**: Orchestrated the department's inaugural **Data Quest Hackathon**, coordinating corporate outreach and logistics for 100+ student participants.
+* 🎤 **Instructor**: Spearheaded technical workshops focused on hands-on machine learning applications and MLOps frameworks.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:0000FF,100:0000FF&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14c8d9,50:0000FF,100:14c8d9&height=100&section=footer" />
 
 **I'm not chasing trends. I'm building skills that survive them.**
 
