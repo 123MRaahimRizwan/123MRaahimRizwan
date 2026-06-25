@@ -112,14 +112,23 @@ My experience spans engineering automated **MLOps pipelines**, architecting **Re
 
 ---
 
-## GitHub Stats
+<p align="center">
+    <a href="https://github.com/123MRaahimRizwan">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=123MRaahimRizwan&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=123MRaahimRizwan&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
 
-<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=123MRaahimRizwan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=4cb386&icon_color=4cb386&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123MRaahimRizwan&layout=compact&theme=github_dark&hide_border=true&title_color=4cb386&text_color=c9d1d9" />
 
-</div>
+ <p align="center">
+   <a href="https://github.com/123MRaahimRizwan"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=123MRaahimRizwan&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
 
 ---
 
